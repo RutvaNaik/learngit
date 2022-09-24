@@ -8,4 +8,3 @@ def mul(a,b):
 
 print(sum(a,b))
 print(mul(a,b))
-
